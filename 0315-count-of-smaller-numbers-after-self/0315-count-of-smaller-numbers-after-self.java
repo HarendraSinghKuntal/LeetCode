@@ -1,6 +1,7 @@
 class Solution {
 
     int[] bit;
+    // By AI done because getting confuse in this.
 
     public List<Integer> countSmaller(int[] nums) {
 
